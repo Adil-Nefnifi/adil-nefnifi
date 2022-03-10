@@ -27,6 +27,8 @@
     <input type="text" id="datum" name="datum"><br>
     <label for="duur">Duur:</label><br>
     <input type="text" id="duur" name="duur"><br>
+    <label for="aantal km">Aantal KM:</label><br>
+    <input type="text" id="aantal km" name="aantal km"><br>
     <label for="snelheid">Gemm. snelheid:</label><br>
     <input type="text" id="snelheid" name="snelheid"><br><br>
     <input type="submit" value="Voeg Toe">
